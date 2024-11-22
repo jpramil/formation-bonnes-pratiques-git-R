@@ -105,6 +105,6 @@ ggplot(departements_60_plus_sf) +
 
 * Le script [`main.R`](https://github.com/InseeFrLab/formation-bonnes-pratiques-exo-correction/blob/appli4/main.R)
 
-![](checkpoint.jpg){width="40%"}{fig-align="center"}
+![](checkpoint.jpg){width=40% fig-align="center"}
 
 :::

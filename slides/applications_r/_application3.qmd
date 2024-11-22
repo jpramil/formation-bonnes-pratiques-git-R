@@ -180,6 +180,6 @@ _❓️ Cette mise à jour des données utilisées vous est-elle apparue plus si
 * Le script [`R/functions.R`](https://raw.githubusercontent.com/InseeFrLab/formation-bonnes-pratiques-exo-correction/refs/tags/appli3/R/functions.R)
 
 
-![](checkpoint.jpg){width="40%"}{fig-align="center"}
+![](checkpoint.jpg){width=40% fig-align="center"}
 
 :::

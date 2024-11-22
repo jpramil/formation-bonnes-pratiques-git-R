@@ -45,6 +45,6 @@
 * Le script [`script.R`](https://raw.githubusercontent.com/InseeFrLab/formation-bonnes-pratiques-exo-correction/refs/tags/appli2/script.R)
 * Le script [`R/functions.R`](https://raw.githubusercontent.com/InseeFrLab/formation-bonnes-pratiques-exo-correction/refs/tags/appli2/R/functions.R)
 
-![](checkpoint.jpg){width="40%"}{fig-align="center"}
+![](checkpoint.jpg){width=40% fig-align="center"}
 
 :::
